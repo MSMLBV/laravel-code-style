@@ -1,0 +1,22 @@
+{
+    "name": "msml/laravel-code-style",
+    "description": "Preset for Laravel Pint.",
+    "keywords": [
+        "msml",
+        "pint",
+        "laravel",
+        "code-style"
+    ],
+    "homepage": "https://github.com/MSMLBV/laravel-code-style",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MSML B.V.",
+            "email": "info@msml.nl"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "laravel/pint": "^1.2"
+    }
+}
