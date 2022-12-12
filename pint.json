@@ -12,6 +12,9 @@
                 "=>": "align_single_space_minimal"
             }
         },
-        "not_operator_with_successor_space": false
-    } 
+        "not_operator_with_successor_space": false,
+        "cast_spaces": {
+            "space": "none"
+        }
+    }
 }
