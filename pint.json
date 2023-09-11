@@ -20,6 +20,9 @@
             "equal": false,
             "identical": false,
             "less_and_greater": false
+        },
+        "nullable_type_declaration": {
+            "syntax": "union"
         }
     }
 }
