@@ -23,6 +23,9 @@
         },
         "nullable_type_declaration": {
             "syntax": "union"
+        },
+        "ordered_types": {
+            "null_adjustment": "always_last"
         }
     }
 }
